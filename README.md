@@ -10,6 +10,7 @@ Dsa practise
 ## Array
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/techynishant/String-Arrays/tree/master/0455-assign-cookies) |
 | [1331-rank-transform-of-an-array](https://github.com/techynishant/String-Arrays/tree/master/1331-rank-transform-of-an-array) |
 ## Hash Table
 |  |
@@ -18,5 +19,14 @@ Dsa practise
 ## Sorting
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/techynishant/String-Arrays/tree/master/0455-assign-cookies) |
 | [1331-rank-transform-of-an-array](https://github.com/techynishant/String-Arrays/tree/master/1331-rank-transform-of-an-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/techynishant/String-Arrays/tree/master/0455-assign-cookies) |
+## Greedy
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/techynishant/String-Arrays/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
