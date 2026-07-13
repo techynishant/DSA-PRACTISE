@@ -11,6 +11,7 @@ Dsa practise
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/techynishant/String-Arrays/tree/master/0455-assign-cookies) |
+| [0860-lemonade-change](https://github.com/techynishant/String-Arrays/tree/master/0860-lemonade-change) |
 | [1331-rank-transform-of-an-array](https://github.com/techynishant/String-Arrays/tree/master/1331-rank-transform-of-an-array) |
 ## Hash Table
 |  |
@@ -29,4 +30,5 @@ Dsa practise
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/techynishant/String-Arrays/tree/master/0455-assign-cookies) |
+| [0860-lemonade-change](https://github.com/techynishant/String-Arrays/tree/master/0860-lemonade-change) |
 <!---LeetCode Topics End-->
