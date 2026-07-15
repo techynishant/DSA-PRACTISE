@@ -10,6 +10,7 @@ Dsa practise
 ## Array
 |  |
 | ------- |
+| [0134-gas-station](https://github.com/techynishant/String-Arrays/tree/master/0134-gas-station) |
 | [0455-assign-cookies](https://github.com/techynishant/String-Arrays/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/techynishant/String-Arrays/tree/master/0860-lemonade-change) |
 | [1331-rank-transform-of-an-array](https://github.com/techynishant/String-Arrays/tree/master/1331-rank-transform-of-an-array) |
@@ -29,6 +30,7 @@ Dsa practise
 ## Greedy
 |  |
 | ------- |
+| [0134-gas-station](https://github.com/techynishant/String-Arrays/tree/master/0134-gas-station) |
 | [0455-assign-cookies](https://github.com/techynishant/String-Arrays/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/techynishant/String-Arrays/tree/master/0860-lemonade-change) |
 <!---LeetCode Topics End-->
