@@ -6,12 +6,14 @@ Dsa practise
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/techynishant/String-Arrays/tree/master/0189-rotate-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/techynishant/String-Arrays/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/techynishant/String-Arrays/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Array
 |  |
 | ------- |
 | [0134-gas-station](https://github.com/techynishant/String-Arrays/tree/master/0134-gas-station) |
+| [0189-rotate-array](https://github.com/techynishant/String-Arrays/tree/master/0189-rotate-array) |
 | [0455-assign-cookies](https://github.com/techynishant/String-Arrays/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/techynishant/String-Arrays/tree/master/0860-lemonade-change) |
 | [1331-rank-transform-of-an-array](https://github.com/techynishant/String-Arrays/tree/master/1331-rank-transform-of-an-array) |
@@ -27,6 +29,7 @@ Dsa practise
 ## Two Pointers
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/techynishant/String-Arrays/tree/master/0189-rotate-array) |
 | [0455-assign-cookies](https://github.com/techynishant/String-Arrays/tree/master/0455-assign-cookies) |
 ## Greedy
 |  |
