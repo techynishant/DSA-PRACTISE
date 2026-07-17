@@ -13,6 +13,7 @@ Dsa practise
 ## Array
 |  |
 | ------- |
+| [0046-permutations](https://github.com/techynishant/String-Arrays/tree/master/0046-permutations) |
 | [0134-gas-station](https://github.com/techynishant/String-Arrays/tree/master/0134-gas-station) |
 | [0189-rotate-array](https://github.com/techynishant/String-Arrays/tree/master/0189-rotate-array) |
 | [0455-assign-cookies](https://github.com/techynishant/String-Arrays/tree/master/0455-assign-cookies) |
@@ -50,4 +51,8 @@ Dsa practise
 |  |
 | ------- |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/techynishant/String-Arrays/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/techynishant/String-Arrays/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
