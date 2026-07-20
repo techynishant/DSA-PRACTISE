@@ -18,6 +18,7 @@ Dsa practise
 | [0189-rotate-array](https://github.com/techynishant/String-Arrays/tree/master/0189-rotate-array) |
 | [0455-assign-cookies](https://github.com/techynishant/String-Arrays/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/techynishant/String-Arrays/tree/master/0860-lemonade-change) |
+| [1260-shift-2d-grid](https://github.com/techynishant/String-Arrays/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/techynishant/String-Arrays/tree/master/1331-rank-transform-of-an-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/techynishant/String-Arrays/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
@@ -50,9 +51,14 @@ Dsa practise
 ## Simulation
 |  |
 | ------- |
+| [1260-shift-2d-grid](https://github.com/techynishant/String-Arrays/tree/master/1260-shift-2d-grid) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/techynishant/String-Arrays/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Backtracking
 |  |
 | ------- |
 | [0046-permutations](https://github.com/techynishant/String-Arrays/tree/master/0046-permutations) |
+## Matrix
+|  |
+| ------- |
+| [1260-shift-2d-grid](https://github.com/techynishant/String-Arrays/tree/master/1260-shift-2d-grid) |
 <!---LeetCode Topics End-->
