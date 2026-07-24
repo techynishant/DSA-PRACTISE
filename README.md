@@ -61,4 +61,8 @@ Dsa practise
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/techynishant/String-Arrays/tree/master/1260-shift-2d-grid) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0576-out-of-boundary-paths](https://github.com/techynishant/String-Arrays/tree/master/0576-out-of-boundary-paths) |
 <!---LeetCode Topics End-->
