@@ -33,6 +33,7 @@ Dsa practise
 | [0455-assign-cookies](https://github.com/techynishant/String-Arrays/tree/master/0455-assign-cookies) |
 | [1331-rank-transform-of-an-array](https://github.com/techynishant/String-Arrays/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/techynishant/String-Arrays/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/techynishant/String-Arrays/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/techynishant/String-Arrays/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Two Pointers
 |  |
@@ -74,4 +75,12 @@ Dsa practise
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/techynishant/String-Arrays/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## String
+|  |
+| ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/techynishant/String-Arrays/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Counting Sort
+|  |
+| ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/techynishant/String-Arrays/tree/master/3517-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->
