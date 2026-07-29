@@ -69,6 +69,7 @@ Dsa practise
 ## Dynamic Programming
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/techynishant/String-Arrays/tree/master/0010-regular-expression-matching) |
 | [0494-target-sum](https://github.com/techynishant/String-Arrays/tree/master/0494-target-sum) |
 | [0576-out-of-boundary-paths](https://github.com/techynishant/String-Arrays/tree/master/0576-out-of-boundary-paths) |
 ## Heap (Priority Queue)
@@ -78,9 +79,14 @@ Dsa practise
 ## String
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/techynishant/String-Arrays/tree/master/0010-regular-expression-matching) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/techynishant/String-Arrays/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Counting Sort
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/techynishant/String-Arrays/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Recursion
+|  |
+| ------- |
+| [0010-regular-expression-matching](https://github.com/techynishant/String-Arrays/tree/master/0010-regular-expression-matching) |
 <!---LeetCode Topics End-->
