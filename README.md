@@ -18,6 +18,7 @@ Dsa practise
 | [0189-rotate-array](https://github.com/techynishant/String-Arrays/tree/master/0189-rotate-array) |
 | [0455-assign-cookies](https://github.com/techynishant/String-Arrays/tree/master/0455-assign-cookies) |
 | [0494-target-sum](https://github.com/techynishant/String-Arrays/tree/master/0494-target-sum) |
+| [0646-maximum-length-of-pair-chain](https://github.com/techynishant/String-Arrays/tree/master/0646-maximum-length-of-pair-chain) |
 | [0860-lemonade-change](https://github.com/techynishant/String-Arrays/tree/master/0860-lemonade-change) |
 | [1260-shift-2d-grid](https://github.com/techynishant/String-Arrays/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/techynishant/String-Arrays/tree/master/1331-rank-transform-of-an-array) |
@@ -31,6 +32,7 @@ Dsa practise
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/techynishant/String-Arrays/tree/master/0455-assign-cookies) |
+| [0646-maximum-length-of-pair-chain](https://github.com/techynishant/String-Arrays/tree/master/0646-maximum-length-of-pair-chain) |
 | [1331-rank-transform-of-an-array](https://github.com/techynishant/String-Arrays/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/techynishant/String-Arrays/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/techynishant/String-Arrays/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -46,6 +48,7 @@ Dsa practise
 | ------- |
 | [0134-gas-station](https://github.com/techynishant/String-Arrays/tree/master/0134-gas-station) |
 | [0455-assign-cookies](https://github.com/techynishant/String-Arrays/tree/master/0455-assign-cookies) |
+| [0646-maximum-length-of-pair-chain](https://github.com/techynishant/String-Arrays/tree/master/0646-maximum-length-of-pair-chain) |
 | [0860-lemonade-change](https://github.com/techynishant/String-Arrays/tree/master/0860-lemonade-change) |
 ## Number Theory
 |  |
@@ -72,6 +75,7 @@ Dsa practise
 | [0010-regular-expression-matching](https://github.com/techynishant/String-Arrays/tree/master/0010-regular-expression-matching) |
 | [0494-target-sum](https://github.com/techynishant/String-Arrays/tree/master/0494-target-sum) |
 | [0576-out-of-boundary-paths](https://github.com/techynishant/String-Arrays/tree/master/0576-out-of-boundary-paths) |
+| [0646-maximum-length-of-pair-chain](https://github.com/techynishant/String-Arrays/tree/master/0646-maximum-length-of-pair-chain) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
