@@ -7,6 +7,7 @@ Dsa practise
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/techynishant/String-Arrays/tree/master/0189-rotate-array) |
+| [0486-predict-the-winner](https://github.com/techynishant/String-Arrays/tree/master/0486-predict-the-winner) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/techynishant/String-Arrays/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/techynishant/String-Arrays/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/techynishant/String-Arrays/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -17,6 +18,7 @@ Dsa practise
 | [0134-gas-station](https://github.com/techynishant/String-Arrays/tree/master/0134-gas-station) |
 | [0189-rotate-array](https://github.com/techynishant/String-Arrays/tree/master/0189-rotate-array) |
 | [0455-assign-cookies](https://github.com/techynishant/String-Arrays/tree/master/0455-assign-cookies) |
+| [0486-predict-the-winner](https://github.com/techynishant/String-Arrays/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/techynishant/String-Arrays/tree/master/0494-target-sum) |
 | [0646-maximum-length-of-pair-chain](https://github.com/techynishant/String-Arrays/tree/master/0646-maximum-length-of-pair-chain) |
 | [0860-lemonade-change](https://github.com/techynishant/String-Arrays/tree/master/0860-lemonade-change) |
@@ -73,6 +75,7 @@ Dsa practise
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/techynishant/String-Arrays/tree/master/0010-regular-expression-matching) |
+| [0486-predict-the-winner](https://github.com/techynishant/String-Arrays/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/techynishant/String-Arrays/tree/master/0494-target-sum) |
 | [0576-out-of-boundary-paths](https://github.com/techynishant/String-Arrays/tree/master/0576-out-of-boundary-paths) |
 | [0646-maximum-length-of-pair-chain](https://github.com/techynishant/String-Arrays/tree/master/0646-maximum-length-of-pair-chain) |
@@ -93,4 +96,9 @@ Dsa practise
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/techynishant/String-Arrays/tree/master/0010-regular-expression-matching) |
+| [0486-predict-the-winner](https://github.com/techynishant/String-Arrays/tree/master/0486-predict-the-winner) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/techynishant/String-Arrays/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
