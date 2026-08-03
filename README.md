@@ -15,6 +15,7 @@ Dsa practise
 |  |
 | ------- |
 | [0046-permutations](https://github.com/techynishant/String-Arrays/tree/master/0046-permutations) |
+| [0079-word-search](https://github.com/techynishant/String-Arrays/tree/master/0079-word-search) |
 | [0134-gas-station](https://github.com/techynishant/String-Arrays/tree/master/0134-gas-station) |
 | [0189-rotate-array](https://github.com/techynishant/String-Arrays/tree/master/0189-rotate-array) |
 | [0455-assign-cookies](https://github.com/techynishant/String-Arrays/tree/master/0455-assign-cookies) |
@@ -66,10 +67,12 @@ Dsa practise
 |  |
 | ------- |
 | [0046-permutations](https://github.com/techynishant/String-Arrays/tree/master/0046-permutations) |
+| [0079-word-search](https://github.com/techynishant/String-Arrays/tree/master/0079-word-search) |
 | [0494-target-sum](https://github.com/techynishant/String-Arrays/tree/master/0494-target-sum) |
 ## Matrix
 |  |
 | ------- |
+| [0079-word-search](https://github.com/techynishant/String-Arrays/tree/master/0079-word-search) |
 | [1260-shift-2d-grid](https://github.com/techynishant/String-Arrays/tree/master/1260-shift-2d-grid) |
 ## Dynamic Programming
 |  |
@@ -87,6 +90,7 @@ Dsa practise
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/techynishant/String-Arrays/tree/master/0010-regular-expression-matching) |
+| [0079-word-search](https://github.com/techynishant/String-Arrays/tree/master/0079-word-search) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/techynishant/String-Arrays/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Counting Sort
 |  |
@@ -101,4 +105,8 @@ Dsa practise
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/techynishant/String-Arrays/tree/master/0486-predict-the-winner) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/techynishant/String-Arrays/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
