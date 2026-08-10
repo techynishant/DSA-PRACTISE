@@ -8,6 +8,7 @@ Dsa practise
 | ------- |
 | [0189-rotate-array](https://github.com/techynishant/String-Arrays/tree/master/0189-rotate-array) |
 | [0486-predict-the-winner](https://github.com/techynishant/String-Arrays/tree/master/0486-predict-the-winner) |
+| [1690-stone-game-vii](https://github.com/techynishant/String-Arrays/tree/master/1690-stone-game-vii) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/techynishant/String-Arrays/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/techynishant/String-Arrays/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/techynishant/String-Arrays/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -26,6 +27,7 @@ Dsa practise
 | [1260-shift-2d-grid](https://github.com/techynishant/String-Arrays/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/techynishant/String-Arrays/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/techynishant/String-Arrays/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1690-stone-game-vii](https://github.com/techynishant/String-Arrays/tree/master/1690-stone-game-vii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/techynishant/String-Arrays/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
 |  |
@@ -83,6 +85,7 @@ Dsa practise
 | [0494-target-sum](https://github.com/techynishant/String-Arrays/tree/master/0494-target-sum) |
 | [0576-out-of-boundary-paths](https://github.com/techynishant/String-Arrays/tree/master/0576-out-of-boundary-paths) |
 | [0646-maximum-length-of-pair-chain](https://github.com/techynishant/String-Arrays/tree/master/0646-maximum-length-of-pair-chain) |
+| [1690-stone-game-vii](https://github.com/techynishant/String-Arrays/tree/master/1690-stone-game-vii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -107,8 +110,17 @@ Dsa practise
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/techynishant/String-Arrays/tree/master/0486-predict-the-winner) |
+| [1690-stone-game-vii](https://github.com/techynishant/String-Arrays/tree/master/1690-stone-game-vii) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0079-word-search](https://github.com/techynishant/String-Arrays/tree/master/0079-word-search) |
+## Minimax
+|  |
+| ------- |
+| [1690-stone-game-vii](https://github.com/techynishant/String-Arrays/tree/master/1690-stone-game-vii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1690-stone-game-vii](https://github.com/techynishant/String-Arrays/tree/master/1690-stone-game-vii) |
 <!---LeetCode Topics End-->
