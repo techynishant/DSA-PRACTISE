@@ -124,4 +124,8 @@ Dsa practise
 |  |
 | ------- |
 | [1690-stone-game-vii](https://github.com/techynishant/String-Arrays/tree/master/1690-stone-game-vii) |
+## Database
+|  |
+| ------- |
+| [0181-employees-earning-more-than-their-managers](https://github.com/techynishant/String-Arrays/tree/master/0181-employees-earning-more-than-their-managers) |
 <!---LeetCode Topics End-->
