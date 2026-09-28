@@ -97,6 +97,7 @@ Dsa practise
 | [0010-regular-expression-matching](https://github.com/techynishant/String-Arrays/tree/master/0010-regular-expression-matching) |
 | [0079-word-search](https://github.com/techynishant/String-Arrays/tree/master/0079-word-search) |
 | [0097-interleaving-string](https://github.com/techynishant/String-Arrays/tree/master/0097-interleaving-string) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/techynishant/String-Arrays/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/techynishant/String-Arrays/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Counting Sort
 |  |
@@ -131,4 +132,12 @@ Dsa practise
 | [0182-duplicate-emails](https://github.com/techynishant/String-Arrays/tree/master/0182-duplicate-emails) |
 | [0511-game-play-analysis-i](https://github.com/techynishant/String-Arrays/tree/master/0511-game-play-analysis-i) |
 | [1075-project-employees-i](https://github.com/techynishant/String-Arrays/tree/master/1075-project-employees-i) |
+## Stack
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/techynishant/String-Arrays/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/techynishant/String-Arrays/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
