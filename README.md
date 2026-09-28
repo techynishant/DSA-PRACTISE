@@ -132,6 +132,7 @@ Dsa practise
 | [0182-duplicate-emails](https://github.com/techynishant/String-Arrays/tree/master/0182-duplicate-emails) |
 | [0511-game-play-analysis-i](https://github.com/techynishant/String-Arrays/tree/master/0511-game-play-analysis-i) |
 | [1075-project-employees-i](https://github.com/techynishant/String-Arrays/tree/master/1075-project-employees-i) |
+| [1141-user-activity-for-the-past-30-days-i](https://github.com/techynishant/String-Arrays/tree/master/1141-user-activity-for-the-past-30-days-i) |
 ## Stack
 |  |
 | ------- |
