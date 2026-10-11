@@ -29,6 +29,7 @@ Dsa practise
 | [1331-rank-transform-of-an-array](https://github.com/techynishant/String-Arrays/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/techynishant/String-Arrays/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1690-stone-game-vii](https://github.com/techynishant/String-Arrays/tree/master/1690-stone-game-vii) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/techynishant/String-Arrays/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/techynishant/String-Arrays/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
 |  |
@@ -141,4 +142,8 @@ Dsa practise
 |  |
 | ------- |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/techynishant/String-Arrays/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/techynishant/String-Arrays/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
