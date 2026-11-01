@@ -7,6 +7,7 @@ Dsa practise
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/techynishant/String-Arrays/tree/master/0189-rotate-array) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/techynishant/String-Arrays/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/techynishant/String-Arrays/tree/master/0486-predict-the-winner) |
 | [1690-stone-game-vii](https://github.com/techynishant/String-Arrays/tree/master/1690-stone-game-vii) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/techynishant/String-Arrays/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -20,6 +21,7 @@ Dsa practise
 | [0079-word-search](https://github.com/techynishant/String-Arrays/tree/master/0079-word-search) |
 | [0134-gas-station](https://github.com/techynishant/String-Arrays/tree/master/0134-gas-station) |
 | [0189-rotate-array](https://github.com/techynishant/String-Arrays/tree/master/0189-rotate-array) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/techynishant/String-Arrays/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0455-assign-cookies](https://github.com/techynishant/String-Arrays/tree/master/0455-assign-cookies) |
 | [0486-predict-the-winner](https://github.com/techynishant/String-Arrays/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/techynishant/String-Arrays/tree/master/0494-target-sum) |
