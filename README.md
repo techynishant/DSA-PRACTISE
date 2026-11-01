@@ -33,6 +33,7 @@ Dsa practise
 | [1690-stone-game-vii](https://github.com/techynishant/String-Arrays/tree/master/1690-stone-game-vii) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/techynishant/String-Arrays/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/techynishant/String-Arrays/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3665-twisted-mirror-path-count](https://github.com/techynishant/String-Arrays/tree/master/3665-twisted-mirror-path-count) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/techynishant/String-Arrays/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
 |  |
@@ -82,6 +83,7 @@ Dsa practise
 | ------- |
 | [0079-word-search](https://github.com/techynishant/String-Arrays/tree/master/0079-word-search) |
 | [1260-shift-2d-grid](https://github.com/techynishant/String-Arrays/tree/master/1260-shift-2d-grid) |
+| [3665-twisted-mirror-path-count](https://github.com/techynishant/String-Arrays/tree/master/3665-twisted-mirror-path-count) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -92,6 +94,7 @@ Dsa practise
 | [0576-out-of-boundary-paths](https://github.com/techynishant/String-Arrays/tree/master/0576-out-of-boundary-paths) |
 | [0646-maximum-length-of-pair-chain](https://github.com/techynishant/String-Arrays/tree/master/0646-maximum-length-of-pair-chain) |
 | [1690-stone-game-vii](https://github.com/techynishant/String-Arrays/tree/master/1690-stone-game-vii) |
+| [3665-twisted-mirror-path-count](https://github.com/techynishant/String-Arrays/tree/master/3665-twisted-mirror-path-count) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
