@@ -8,6 +8,7 @@ Dsa practise
 | ------- |
 | [0189-rotate-array](https://github.com/techynishant/String-Arrays/tree/master/0189-rotate-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/techynishant/String-Arrays/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/techynishant/String-Arrays/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/techynishant/String-Arrays/tree/master/0486-predict-the-winner) |
 | [1690-stone-game-vii](https://github.com/techynishant/String-Arrays/tree/master/1690-stone-game-vii) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/techynishant/String-Arrays/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -23,6 +24,7 @@ Dsa practise
 | [0189-rotate-array](https://github.com/techynishant/String-Arrays/tree/master/0189-rotate-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/techynishant/String-Arrays/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0455-assign-cookies](https://github.com/techynishant/String-Arrays/tree/master/0455-assign-cookies) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/techynishant/String-Arrays/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/techynishant/String-Arrays/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/techynishant/String-Arrays/tree/master/0494-target-sum) |
 | [0646-maximum-length-of-pair-chain](https://github.com/techynishant/String-Arrays/tree/master/0646-maximum-length-of-pair-chain) |
@@ -43,6 +45,7 @@ Dsa practise
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/techynishant/String-Arrays/tree/master/0455-assign-cookies) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/techynishant/String-Arrays/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0646-maximum-length-of-pair-chain](https://github.com/techynishant/String-Arrays/tree/master/0646-maximum-length-of-pair-chain) |
 | [1331-rank-transform-of-an-array](https://github.com/techynishant/String-Arrays/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/techynishant/String-Arrays/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
