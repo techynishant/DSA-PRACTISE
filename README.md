@@ -109,6 +109,7 @@ Dsa practise
 | [0079-word-search](https://github.com/techynishant/String-Arrays/tree/master/0079-word-search) |
 | [0097-interleaving-string](https://github.com/techynishant/String-Arrays/tree/master/0097-interleaving-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/techynishant/String-Arrays/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/techynishant/String-Arrays/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/techynishant/String-Arrays/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Counting Sort
 |  |
